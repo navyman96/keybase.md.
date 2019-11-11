@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am navyman96 on github.
+  * I am jscv62 (https://keybase.io/jscv62) on keybase.
+  * I have a public key ASBXs_x4m622LqmZWyekoXbUQUjzIdDTyyCbHPaHNuM1MQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012057b3fc789badb62ea9995b27a4a176d44148f321d0d3cb209b1cf68736e335310a",
+      "host": "keybase.io",
+      "kid": "012057b3fc789badb62ea9995b27a4a176d44148f321d0d3cb209b1cf68736e335310a",
+      "uid": "bbac0cd215c11d0a88fff6b52f7cca19",
+      "username": "jscv62"
+    },
+    "merkle_root": {
+      "ctime": 1573433969,
+      "hash": "752e80e91200f328402432f9420dc65f7fb869e24e5e333af3cf993cb1766fabaae104832d4ee87ce940ac4051508c82ee9ed7e80f8f50d0a6df54dfb0595651",
+      "hash_meta": "7b9de8d5e766c5efe46d0b107afbe18bc781b72c109ba70fdaffe9bfbab990e7",
+      "seqno": 9114011
+    },
+    "service": {
+      "entropy": "zYpMGmvOcx1s7iVmwzsRbv0p",
+      "name": "github",
+      "username": "navyman96"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573433979,
+  "expire_in": 504576000,
+  "prev": "8745652c1290b89b534cb6a0dd81e1c8771402b95701f82535b6cb26b22a8225",
+  "seqno": 27,
+  "tag": "signature"
+}
+```
+
+with the key [ASBXs_x4m622LqmZWyekoXbUQUjzIdDTyyCbHPaHNuM1MQo](https://keybase.io/jscv62), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgV7P8eJutti6pmVsnpKF21EFI8yHQ08sgmxz2hzbjNTEKp3BheWxvYWTESpcCG8Qgh0VlLBKQuJtTTLag3YHhyHcUArlXAfglNbbLJrIqgiXEIHOqq2TpQtCH5nQbj1N7QoKTfBtHstwLiLoo0eOxsfyQAgHCo3NpZ8RA1Rqhdw8o2Mm7nGk58GaX/jz4M+uAWDybokI3YnuxUgHDcfZYiCYa9Ue6MmUFh63HHUaH5TT0PlWsGhosp6F+DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGnYrQg8JYd3BVsb6PeIfdDLA/rExuUCkMYC/8PVaD+To3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jscv62
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jscv62
+```
